@@ -1,0 +1,22 @@
+# Ignore all .cache files
+*.cache
+
+# Ignore the obj directory inside 'HobbyProject-Backend/HobbyProject-Backend/'
+HobbyProject-Backend/HobbyProject-Backend/obj/
+
+# Ignore the obj directory inside 'HobbyProject-Backend/HobbyProject-Backend/'
+HobbyProject-Backend/HobbyProject-Backend/bin/
+
+# Ignore the specific .nuget.g.targets file in the obj folder
+HobbyProject-Backend/HobbyProject-Backend/obj/HobbyProject-Backend.csproj.nuget.g.targets
+*.json
+HobbyProject-Backend/HobbyProject-Backend/obj/Release/net8.0/HobbyProject-Backend.assets.cache
+HobbyProject-Backend/HobbyProject-Backend/obj/Release/net8.0/HobbyProject-Backend.csproj.AssemblyReference.cache
+HobbyProject-Backend/HobbyProject-Backend/obj/project.nuget.cache
+HobbyProject-Backend/HobbyProject-Backend/obj/project.assets.json
+HobbyProject-Backend/HobbyProject-Backend/obj/Debug/net8.0/HobbyProject-Backend.assets.cache
+HobbyProject-Backend/HobbyProject-Backend/obj/Debug/net8.0/HobbyProject-Backend.csproj.AssemblyReference.cache
+HobbyProject-Backend/HobbyProject-Backend/obj/HobbyProject-Backend.csproj.nuget.dgspec.json
+HobbyProject-Backend/HobbyProject-Backend/obj/Release/net8.0/HobbyProject-Backend.assets.cache
+HobbyProject-Backend/HobbyProject-Backend/obj/Release/net8.0/HobbyProject-Backend.csproj.AssemblyReference.cache
+*.cache
